@@ -82,18 +82,20 @@ with the 'cd' command
 just doing 'cd' with no arguments get you into the home directory
 within the os, you can find many directories, if you do
 ```
-1. cd /
-2. ls
+cd /
+ls
 ```
 
 you will enter the "root" directory", this is where everything enlies,
 you see /bin, /etc/, /tmp, all these other directorys, ignore them
 
 now if you do, 
-1. cd /home/
-2. ls
-3. cd username
-4. ls -a
+```
+cd /home/
+ls
+cd username
+ls -a
+```
 
 you will see that you were in the dir you were just in at first called the "home directory"
 this home directory is where you login at all times
@@ -103,10 +105,17 @@ the home directory is where you should be developing etc.
 you saw that cd without any arguments goes to the home directory
 
 if you want to go back to the /home/ directory, you can do
-cd ../
+`cd ../`
 
-what this command 
+what this command does, is go back a directory
+"." refers to your current directory (also equivalent to "./")
+".." refers to your past directory (also equivalent to "../")
 
+so if you are in /home/username/
+doing 'cd ../' goes back a directory to "/home"
+if you do 'cd../" again, it goes back to "/" (root dir)
+
+you can also do 'cd' again to go back to your home dir (home dir refers to /home/username)
 
 # git
 
