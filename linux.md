@@ -115,4 +115,15 @@ these special arguments can be used for any command
 '-': refers to the last directory you've been in (different from '..')
 ```
 
+i can use these with other commands like 'ls', 'mkdir' etc.
+```
+'ls ../' : lists previous directory
+'ls /' : lists root directory
+'mkdir ~/test' : makes directory in home directory called test
+'cd /home/username/test' changes directory  to test
+'cd ~/test' equivalent to previous command
+
+'cd /': goes to root
+'cd ~': goes to home
+'cd -': if you do this command, it will go back to root
 
