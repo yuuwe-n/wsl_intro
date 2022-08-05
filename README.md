@@ -3,7 +3,7 @@ introduction to wsl for developers
 
 table of contents
 
-1. basic linux commands/why development much easier
+1. [linux](linux) basic linux commands/why development much easier
 2. how git works for developers
 3. vscode integration/ how it works with wsl
 4. markdown
@@ -38,6 +38,7 @@ exercise:
 
 after you've done that, you can see there is nothing in that new directory u just made
 try putting some stuff in there
+
 'touch' create a file 
 
 'nano' edit a file
@@ -58,6 +59,7 @@ through these exercises you have seen:
 this is the basic syntax for doing commands in linux
 
 try doing:
+
 ```
 'ls -a'
 'ls --all'
@@ -117,13 +119,3 @@ doing 'cd ../' goes back a directory to "/home"
 if you do 'cd../" again, it goes back to "/" (root dir)
 
 you can also do 'cd' again to go back to your home dir (home dir refers to /home/username)
-
-# git
-
-# vscode integration
-
-# markdown
-
-# go/wsl
-
-# integration
