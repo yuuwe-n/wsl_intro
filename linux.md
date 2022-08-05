@@ -97,7 +97,7 @@ if you want to go back to the /home/ directory, you can do
 `cd ../`
 
 what this command does, is go back a directory
-"." refers to your current directory (also equivalent to "./")
+"." refers to your current working directory (also equivalent to "./")
 ".." refers to your past directory (also equivalent to "../")
 
 so if you are in /home/username/
@@ -105,3 +105,14 @@ doing 'cd ../' goes back a directory to "/home"
 if you do 'cd../" again, it goes back to "/" (root dir)
 
 you can also do 'cd' again to go back to your home dir (home dir refers to /home/username)
+
+there are special arguments other than the ones you've just seen,
+these special arguments can be used for any command 
+```
+'.': refers to current working dir
+'..': refers to previous directory
+'~': refers to your home directory
+'-': refers to the last directory you've been in (different from '..')
+```
+
+
