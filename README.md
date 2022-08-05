@@ -57,19 +57,55 @@ through these exercises you have seen:
 this is the basic syntax for doing commands in linux
 
 try doing:
+```
 'ls -a'
 'ls --all'
+```
 
 what you have just done is add a 'flag' or another name is called 'option'
 '-a' is a flag
+'--all' is also called a flag
+'-a' and '-all' are equivalent flags, they both mean all, '-a' is just the shorthand'
 
 you have added an option to 'ls' which allows you to "list all" the stuff in your current directory
 usually the 'ls' command hides files with files that have the symbol "dot" in front of the file such as ".ssh" ".config"
 
 this is what you'll need to know for the basic syntax for all linux commands:
-\> command -flag
+\> command -flag argument
+you add '-flag' or '--flag' to add more functionality to a command
 
+## navigation
 
+now that we have a basic undestanding of terminal syntax, we have basic navigation now
+
+with the 'cd' command
+just doing 'cd' with no arguments get you into the home directory
+within the os, you can find many directories, if you do
+```
+1. cd /
+2. ls
+```
+
+you will enter the "root" directory", this is where everything enlies,
+you see /bin, /etc/, /tmp, all these other directorys, ignore them
+
+now if you do, 
+1. cd /home/
+2. ls
+3. cd username
+4. ls -a
+
+you will see that you were in the dir you were just in at first called the "home directory"
+this home directory is where you login at all times
+
+what you saw earlier is where the os puts stuff neccessary to be an os,
+the home directory is where you should be developing etc.
+you saw that cd without any arguments goes to the home directory
+
+if you want to go back to the /home/ directory, you can do
+cd ../
+
+what this command 
 
 
 # git
