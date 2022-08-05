@@ -22,6 +22,7 @@ user@hostname $
 ```
 
 from here you can enter commands such as (sidenote ignore the apostrophes ' ' when entering commands)
+
 'ls' : "lists" the content of the directory you are in currently
 
 'cd' : "change directory" allowing you to go into a directory, meaning u can enter a directory
