@@ -31,9 +31,11 @@ try putting some stuff in there
 
 'nano' edit a file
 
+```
 exercise:
 1. create a file (touch filename)
 2. edit that file (nano filename)
+```
 
 once you're in that file, ignore the bottom for now, just put whatever you want in that file (ignore the \<\> when doing keybinds)
 to save, do the command \<Ctrl + O\>
