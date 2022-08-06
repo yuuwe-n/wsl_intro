@@ -10,7 +10,7 @@ once you should at least have a basic understanding of how the source management
 
 here are some commands that you will be making very often however:
 ```
-git clone : clones a repository
+git clone repourl: clones a repository (you can find it on github/more information in [github](#github)
 
 git add .
 git commit -m "message"
@@ -25,6 +25,10 @@ for a basic understanding:
 `git push` sends the commit to the git repo,
 
 if you want to just do offline edits, you can just do `git add .` and `git commit -m "message`
-for local development, these alow you to track changes with these 2 commands
+for local development, these allow you to track changes with these 2 commands
+
+## github
+
 
 this is all you need to know with git, now you can move onto [vscode](vscode.md)
+
