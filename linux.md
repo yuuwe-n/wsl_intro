@@ -168,5 +168,28 @@ for manual pages
 this manual is a good intro to how linux is structured
 `man hier`
 
+## ubuntu
+im not gonna get much into distributions, but all you need to know is that there are different OS's of linux like
+Ubuntu called distributions
+
+there are minor differences between distributions, but all you need to know is that you are using ubuntu
+
+ubuntu has some differences like for install packages.
+
+to install stuff, you cant just install the exe in general for linux. (exe is for windows, even macOS has a different
+way to install software)
+
+> this is about linux for development purposes, there is other ways to install/other info for desktop use, but we dont go into that here. not many developer tools need to install tar archives, or use a gui to install (we are using WSL)
+
+you have to use a command
+
+`sudo apt-get install package_name`
+
+try doing it with python3, 
+
+`sudo apt-get install python3`
+
+
 that is basically all you need to know to do develop with linux
 you should go to the next page [git](git.md)
+
