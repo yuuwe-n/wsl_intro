@@ -46,7 +46,9 @@ you can find your file by using the 'ls command'
 if you type 'cd' without any arguments, you will go to your home directory ( i will explain home directory later )
 
 through these exercises you have seen:
-> command argument
+
+$ command argument
+
 this is the basic syntax for doing commands in linux
 
 try doing:
@@ -65,7 +67,9 @@ you have added an option to 'ls' which allows you to "list all" the stuff in you
 usually the 'ls' command hides files with files that have the symbol "dot" in front of the file such as ".ssh" ".config"
 
 this is what you'll need to know for the basic syntax for all linux commands:
-\> command -flag argument
+
+$ command -flag argument
+
 you add '-flag' or '--flag' to add more functionality to a command
 
 ## navigation
