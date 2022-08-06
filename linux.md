@@ -189,7 +189,18 @@ try doing it with python3,
 
 `sudo apt-get install python3`
 
+## tips
+also big tip: use the \< tab \> to autocomplete dir names, file names, etc
+
+linux is case sensitive so "test" and "Test" are different
+
+compared to windows, you can use include most symbols to name stuff, but there are some special symbols,
+so I don't recommend you use special characters
+
+also if you have a name that has a space, you can either do '\ ' or enclose the argument with "double quotes"
+
 ---
+
 
 that is basically all you need to know to do develop with linux
 you should go to the next page [git](git.md)
