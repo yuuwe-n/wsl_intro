@@ -1,6 +1,7 @@
 # basic linux
 basics of what wsl is:
 wsl (windows subsystem for linux) allows it for a developer to access linux from windows.
+
 once you have created an acct for ubuntu on your wsl shell, you will be greeted by 
 
 ```
@@ -45,7 +46,7 @@ you can find your file by using the 'ls command'
 if you type 'cd' without any arguments, you will go to your home directory ( i will explain home directory later )
 
 through these exercises you have seen:
-\> command argument
+> command argument
 this is the basic syntax for doing commands in linux
 
 try doing:
