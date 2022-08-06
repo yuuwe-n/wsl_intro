@@ -10,11 +10,10 @@ once you should at least have a basic understanding of how the source management
 
 here are some commands that you will be making very often however:
 
-(you can find it on github/more information in [github](#github))
+`git clone repourl` : clones a repository (can find more info in the section about [github](#github)
+
 
 ```
-git clone repourl: clones a repository 
-
 git add .
 git commit -m "message"
 git push
