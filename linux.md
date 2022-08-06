@@ -47,7 +47,7 @@ if you type 'cd' without any arguments, you will go to your home directory ( i w
 
 through these exercises you have seen:
 
-$ command argument
+`$ command argument`
 
 this is the basic syntax for doing commands in linux
 
@@ -68,7 +68,7 @@ usually the 'ls' command hides files with files that have the symbol "dot" in fr
 
 this is what you'll need to know for the basic syntax for all linux commands:
 
-$ command -flag argument
+`$ command -flag argument`
 
 you add '-flag' or '--flag' to add more functionality to a command
 
