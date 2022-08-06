@@ -127,3 +127,32 @@ i can use these with other commands like 'ls', 'mkdir' etc.
 'cd ~': goes to home
 'cd -': if you do this command, it will go back to root
 
+## general linux 
+there are some other important commands in linux such as
+`man` : manual
+`man man` : just browse some of the documentation in there
+
+so 'man', allows you to know what command something is
+'man command'
+
+use the \<page up\> and \<page down\>  to go up/down a page
+OR use \<CTRL + u\> and \<Ctrl + D\> to go half a page up/down
+```
+man ls
+man cd
+man mkdir
+```
+if you want to know anything, like the options like earlier 'ls -a', use the man command
+if you want to actually learn linux outside the basic commands i recommend using the man
+pages for everything. if you don't know the command name use. basically searches
+for manual pages
+`man -k` OR
+`apropos` (these mean the same thing)
+
+`man -k hier` : you can find stuff related to hierarchy
+
+this manual is a good intro to how linux is structured
+`man hier`
+
+that is basically all you need to know to do develop with linux
+you should go to the next page [git](git.md)
