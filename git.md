@@ -18,11 +18,11 @@ git push
 ```
 for a basic understanding:
 
-```
 `git add .` means add the current changes for the '.' current directory, remember that'.' means current directory
+
 `git commit -m "message"` means commit the current changes under a commit called "mesage"
+
 `git push` sends the commit to the git repo,
-```
 
 if you want to just do offline edits, you can just do `git add .` and `git commit -m "message`
 for local development, these alow you to track changes with these 2 commands
