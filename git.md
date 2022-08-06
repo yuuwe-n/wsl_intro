@@ -9,8 +9,11 @@ in the manual it says to go to for more information
 once you should at least have a basic understanding of how the source management system git works
 
 here are some commands that you will be making very often however:
+
+(you can find it on github/more information in [github](#github))
+
 ```
-git clone repourl: clones a repository (you can find it on github/more information in [github](#github)
+git clone repourl: clones a repository 
 
 git add .
 git commit -m "message"
