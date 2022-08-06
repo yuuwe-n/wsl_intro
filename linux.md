@@ -189,6 +189,7 @@ try doing it with python3,
 
 `sudo apt-get install python3`
 
+---
 
 that is basically all you need to know to do develop with linux
 you should go to the next page [git](git.md)

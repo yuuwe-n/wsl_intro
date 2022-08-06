@@ -68,5 +68,7 @@ also `cat` is a new command meaning concatanate, do `man cat` if you want to lea
 you can now git clone your repo
 there may be other steps with 'git config --global ...', but i trust you are capable of doing that
 
+---
+
 this is all you need to know with git, now you can move onto [vscode](vscode.md)
 

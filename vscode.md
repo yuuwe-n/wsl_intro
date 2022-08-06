@@ -10,4 +10,7 @@ OR, you can just use the vscode plugin do that stuff
 
 
 since i don't really know how that plugin works, we move on to documentation with markdown
+
+---
+
 [markdown](markdown.md)
