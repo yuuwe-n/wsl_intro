@@ -199,6 +199,10 @@ so I don't recommend you use special characters
 
 also if you have a name that has a space, you can either do '\ ' or enclose the argument with "double quotes"
 
+use the \<up> and \<down> arrow, to get previous commands
+
+use \<Ctrl + R \> to reverse search previous commands, u can use \<Ctrl +R\>, and \<Ctrl + shift + R\> to scroll through results
+
 ---
 
 
