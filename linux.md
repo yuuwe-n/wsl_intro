@@ -17,10 +17,12 @@ from here you can enter commands such as (sidenote ignore the apostrophes ' ' wh
 
 try getting used to going to directories and listing the content of directories
 
+```
 exercise:
 1. list the contents of the directory u are currently in
 2. make a new directory named whatever u want (mkdir dirname)
 3. change your directory to the new one you've created (cd dirname)
+```
 
 after you've done that, you can see there is nothing in that new directory u just made
 try putting some stuff in there
