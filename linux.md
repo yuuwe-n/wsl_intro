@@ -130,6 +130,7 @@ i can use these with other commands like 'ls', 'mkdir' etc.
 'cd /': goes to root
 'cd ~': goes to home
 'cd -': if you do this command, it will go back to root
+```
 
 ## general linux 
 there are some other important commands in linux such as
