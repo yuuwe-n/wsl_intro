@@ -3,7 +3,6 @@ introduction to wsl for developers
 
 table of contents
 
-> WIP: WORK IN PROGRESS (working on linux doc rn)
 1. [linux](linux.md): basic linux knowledge to get stuff working
 2. [git](git.md): how git works for developers
 3. [vscode](vscode.md): integration with wsl
