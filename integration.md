@@ -9,8 +9,11 @@ thats pretty much all from me, the takeaway is learn from reading the documentat
 i highly recommend using the man pages, then asking for help
 
 [linux](linux.md): basic linux navigation and documentation
+
 [git](git.md): source control/looking at diffs (i didnt explain the `diff` command but its pretty cool and its how git works)
+
 [vscode](vscode.md): editing your code, previewing your code
+
 [markdown](markdown.md): for documenting/reading others documentation (how markdown is rendered and created)
 
 
