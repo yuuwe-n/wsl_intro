@@ -37,7 +37,11 @@ you don't need to go looking into docker/kubernetes, just basics of how services
 i recommend learning what are daemons, and what does control mean
 
 > i dont even use systemd on openbsd, haha systemd bloated, rc gang
+
 > if you want to go deepend in your freetime, install linux on ur computer if you want to, maybe linux mint, Pop OS, ubuntu for users who want desktop linux. if you want to just learn how to work with the terminal and learn more about linux, try arch linux and gentoo.
+
 > if you want to go even more deep end, use openbsd (openbsd IS NOT linux or a linux distribution). BSD is its own seperate OS relating to UNIX during the bell labs ATT/ uc berkeley days. may have some similarity, but i repeat IS NOT linux
+
 > even linux has usuablity and has improved a lot for desktop usage, a good competitior to macOS, and Windows for desktop usability allowing for games, creative software, development. (i dont even recommend windows for development unless you are using windows subsystem for linux, macOS is great also for development because it is/was based off BSD/UNIX)
+
 > the only use case for openbsd, is if you want to live/breathe in the terminal, i've excluded a lot since I know developers don't need to know that stuff. I've also excluded a lot of stuff because I don't have the use to explore vscode/ how it integrates with wsl.
