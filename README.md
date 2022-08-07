@@ -1,7 +1,7 @@
 # wsl_intro
 introduction to wsl for developers
 
-table of contents
+**table of contents**
 
 1. [linux](linux.md): basic linux knowledge to get stuff working
 2. [git](git.md): how git works for developers
