@@ -11,6 +11,8 @@ introduction to wsl for developers
 5. **[go](go.md)**: starting to work with go commands with wsl (go lang has documentation with terminal so thats why i wanted to introduce wsl to you rn)
 6. **[integration](integration.md)**: getting everything integrated: vscode, with go, with git 
 
+![linux](linux.md)
+
 # linux
 
 basics of what wsl is:
