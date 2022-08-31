@@ -13,6 +13,9 @@ introduction to wsl for developers
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
+>>>>>>> parent of feafd3d (bang)
+=======
 >>>>>>> parent of feafd3d (bang)
 # linux
 
