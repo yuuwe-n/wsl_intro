@@ -153,8 +153,8 @@ use the \<page up\> and \<page down\>  to go up/down a page
 OR use \<CTRL + u\> and \<Ctrl + D\> to go half a page up/down
 ```
 man ls
-man cd
 man mkdir
+man bash
 ```
 if you want to know anything, like the options like earlier 'ls -a', use the man command
 if you want to actually learn linux outside the basic commands i recommend using the man
